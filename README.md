@@ -1,4 +1,4 @@
-# tsoha-cakeorder
+# Kakkutilaus
 
 Sovelluksen ominaisuuksia ovat:
 
@@ -7,6 +7,7 @@ Sovelluksen ominaisuuksia ovat:
 - Asiakkaan valittuaan tuotteet hän siirtyy valitsemaan toimittajan. 
 - Toimittajan tietoja pääsee katsomaan tarkemmin lisätiedoista. Kakun tarkempiin tietoihin pääsee reseptistä ja tilaa painikkeella pääsee tilaukseen.
 - Asiakas näkee tilausosiossa tilaamansa tuotteet, yhteishinnan ja toimittajan.
+- Toimittaja näkee asiakkaan tilauksen.
 - Asikas voi antaa arvion toimittajalle ja lukea muiden palautteita toimitajan tiedoista.
 - Ylläpitäjä voi lisätä ja poistaa kakkuja ja toimittajia listalta.
 - Ylläpitäjä voi poistaa annettuja arvioita.
