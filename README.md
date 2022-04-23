@@ -3,11 +3,9 @@
 Sovelluksen ominaisuuksia ovat:
 
 - Käyttäjä voi kirjautua sisään ja ulos sekä luoda tunnuksen.
-- Asiakas näkee tilattavat kakut listassa hintoineen ja voi valita haluamansa. 
-- Asiakkaan valittuaan tuotteet hän siirtyy valitsemaan toimittajan. 
-- Toimittajan tietoja pääsee katsomaan tarkemmin lisätiedoista. Kakun tarkempiin tietoihin pääsee reseptistä ja tilaa painikkeella pääsee tilaukseen.
-- Asiakas näkee tilausosiossa tilaamansa tuotteet, yhteishinnan ja toimittajan.
-- Toimittaja näkee asiakkaan tilauksen.
-- Asikas voi antaa arvion toimittajalle ja lukea muiden palautteita toimitajan tiedoista.
-- Ylläpitäjä voi lisätä ja poistaa kakkuja ja toimittajia listalta.
+- Asiakas näkee kakkuvaihtoehdot ja voi valita haluamansa. 
+- Asiakkaan valittuaan kakun/kakut hän siirtyy katselemaan kakkukahviloita. 
+- Kahvilan osoite ja palautetiedot ovat valittavissa. Kakun tarkempiin tietoihin pääsee reseptistä.
+- Asikas voi antaa arvion kahvilalle ja näkee toisten antamat arviot.
+- Ylläpitäjä voi lisätä ja poistaa kakkuja ja kahviloita listalta.
 - Ylläpitäjä voi poistaa annettuja arvioita.
